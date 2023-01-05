@@ -1,0 +1,21 @@
+body
+{
+	text-align: center;
+	background-color: lightblue;
+}
+h3
+{
+	font-family: fantasy;
+	font-size: 24;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+canvas {
+    border: 5px solid violet;
+    box-shadow: 5px 5px 5px lightpink;
+    border-radius: 20px;
+}
